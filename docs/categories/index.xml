@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Earth Defenders</title>
+    <link>https://goearthdefenders.org/categories/</link>
+    <description>Recent content in Categories on Earth Defenders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    
+	<atom:link href="https://goearthdefenders.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R</title>
+      <link>https://goearthdefenders.org/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://goearthdefenders.org/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
