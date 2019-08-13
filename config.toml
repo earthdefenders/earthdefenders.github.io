@@ -4,7 +4,7 @@ baseURL = "https://goearthdefenders.org"
 languageCode = "en-GB"
 title = "Earth Defenders"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-publishDir = "docs/"
+#publishDir = "docs/"
 
 # Metadata
 [params]
