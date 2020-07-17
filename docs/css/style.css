@@ -221,8 +221,8 @@ p {
   padding: 0;
 }
 #fh5co-home .fh5co-copy-inner h1 {
-  color: #fff;
-  font-size: 55px;
+  color: #76F7BF; /* #fff; */
+  font-size: 64px; /* 55px; */
   margin-bottom: 20px;
   line-height: 1.2;
   font-weight: 300;
