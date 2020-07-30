@@ -15,7 +15,7 @@ publishDir = "docs"
 [params.hero]
   img = "images/modis_wonderglobe_lrg.jpg"
   title = "Earth Defenders"
-  description = ""
+  description = "Children doing our part to help the planet"
 
 # Navigation section
 [params.nav]
@@ -34,34 +34,34 @@ publishDir = "docs"
     enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "images/forum.png"
     [[params.mission.images.list]]
       img = "images/img_2.jpg"
-    [[params.mission.images.list]]
-      img = "images/img_1.jpg"
-    [[params.mission.images.list]]
-      img = "images/img_4.jpg"
+    #[[params.mission.images.list]]
+    #  img = "images/img_1.jpg"
+    #[[params.mission.images.list]]
+    #  img = "images/img_4.jpg"
 
   [[params.mission.item]]
     weight = 1
-    name = "marketing"
-    title = ""
-    subtitle = ""
-    description = ""
+    name = "forum"
+    title = "Forum"
+    subtitle = "Forum by and for children"
+    description = "Creating a forum for children to share ideas on how to protect the planet"
 
   [[params.mission.item]]
     weight = 2
-    name = "analysis"
-    title = ""
-    subtitle = ""
-    description = ""
+    name = "science"
+    title = "Science"
+    subtitle = "Information for children"
+    description = "Making scientific information about the planet accessible to children"
 
-  [[params.mission.item]]
-    weight = 3
-    name = "strategy"
-    title = ""
-    subtitle = ""
-    description = ""
+  #[[params.mission.item]]
+  #  weight = 3
+  #  name = "strategy"
+  #  title = ""
+  #  subtitle = ""
+  #  description = ""
 
 # Services section
 [params.services]
